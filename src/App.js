@@ -18,14 +18,7 @@ function App() {
         <Route path="/2" exact><Landing2/></Route>
 
       </Switch>
-    </Router>
-
-
-
-  </div>
-</div>
-
-    
+    </Router>   
     
   );
 }
