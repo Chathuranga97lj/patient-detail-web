@@ -1,0 +1,32 @@
+.frame_1{
+    margin-top: 30px;
+    margin-left: 90px;
+    height: 690px;
+    width: 500px;
+    background-color: blue;
+    border-radius: 25px;
+}
+.frame_2{
+    margin-left: 640px;
+    margin-top: -686px;
+    height: 215px;
+    width: 350px;
+    background-color: rgb(32, 183, 131);
+    border-radius: 25px;
+}
+.frame_3{
+    margin-top: 19px;
+    margin-left: 640px;
+    height: 215px;
+    width: 350px;
+    background-color: rgb(182, 193, 28);
+    border-radius: 25px;
+}
+.frame_4{
+    margin-top: 19px;
+    margin-left: 640px;
+    height: 215px;
+    width: 350px;
+    background-color: rgb(164, 24, 50);
+    border-radius: 25px;
+}
