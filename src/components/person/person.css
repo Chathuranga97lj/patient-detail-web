@@ -3,30 +3,108 @@
     margin-left: 90px;
     height: 690px;
     width: 500px;
-    background-color: blue;
+    background-color: white;
     border-radius: 25px;
+}
+.img{
+    margin-left:190px ;
+    margin-top: 30px;
+    height: 130px;
+    width: 130px;
+    
+    border-radius: 50%
+}
+
+p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 20px;
+    color: black;
+}
+#a{
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: 500;
 }
 .frame_2{
     margin-left: 640px;
     margin-top: -686px;
     height: 215px;
     width: 350px;
-    background-color: rgb(32, 183, 131);
+    background-color: black;
     border-radius: 25px;
+}
+
+#heart_rate{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight:600 ;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+#heart_icon{
+    margin-top: 15px;
+    margin-left: 130px;
+    height: 100px;
+    width: 100px;
+}
+#heart{
+    margin-left: 140px;
+    color: aliceblue;
 }
 .frame_3{
     margin-top: 19px;
     margin-left: 640px;
     height: 215px;
     width: 350px;
-    background-color: rgb(182, 193, 28);
+    background-color: rgba(28, 28, 182, 0.682);
     border-radius: 25px;
+}
+#SPO2{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight:600 ;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+#spo2_icon{
+    height: 120px;
+    width: 120px;
+    margin-left: 120px;
+    
+}
+#pso{
+    margin-left: 160px;
+    color: aliceblue;
 }
 .frame_4{
     margin-top: 19px;
     margin-left: 640px;
     height: 215px;
     width: 350px;
-    background-color: rgb(164, 24, 50);
+    background-color: red;
     border-radius: 25px;
+}
+#body_temp{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight:600 ;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#temp_icon{
+    margin-top: 15px;
+    height: 100px;
+    width: 100px;
+    margin-left: 120px;
+}
+#temp{
+    margin-left: 160px;
+    color: aliceblue;
+}
+#next{
+    margin-left: 900px;
+}
+#prev{
+    margin-left: 20px;
 }

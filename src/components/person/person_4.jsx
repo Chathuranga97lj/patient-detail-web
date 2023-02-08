@@ -1,27 +1,28 @@
+
 import React from 'react'
 import './person.css'
-import pic2 from './pic2.jpg'
+import pic4 from './pic4.jpg'
 import temperature from './temperature 1.png'
 import io2 from './o2 1.png'
 import heart from './heart 1.png'
 
-function Person_2(){
+function Person_4(){
   return (
     <div>
         <div className='frame_1'>
         
-            <img src={pic2} className='img'/>
+            <img src={pic4} className='img'/>
 
             <div>
 
             </div>
 
-            <p>Name : amali</p>
-            <p>Reg. Number :2022/56</p>
-            <p>Age :29</p>
-            <p>NIC :123456V</p>
+            <p>Name : Nimali</p>
+            <p>Reg. Number :2022/34</p>
+            <p>Age :28</p>
+            <p>NIC :12345678V</p>
             <p>Clinical Details :</p>
-            <a id='a'>amali is a heart patient since 2022</a>
+            <a id='a'>Nimali is a heart patient since 2022</a>
             <p>Prescriptions :</p>
             <a id='a'>Panadol</a>
             <br/>
@@ -60,8 +61,7 @@ function Person_2(){
         <p id='temp'>27 C</p>
 
         </div>
-        <a id='prev' href='/'>prev</a>
-        <a id='next' href='/2'>next</a>
+        <a id='prev' href='/1'>prev</a>
 
 
 
@@ -70,4 +70,4 @@ function Person_2(){
   )
 }
 
-export default Person_2;
+export default Person_4;

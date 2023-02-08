@@ -1,0 +1,9 @@
+.frame_main{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 25px;
+    height: 750px;
+    width: 1080px;
+    background-color: #6289c3aa;
+  }
