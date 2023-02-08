@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/navbar/navbar';
-import Person from './components/navbar/person/person';
+import Person from './components/person/person';
 
 import {BrowserRouter as Router,Route} from "react-router-dom";
 import {Switch} from "react-router-dom";
